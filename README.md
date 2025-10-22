@@ -61,5 +61,5 @@ By following these steps, you can **claim a free month of Perplexity Pro** and t
 ---
 
 ### 💬 Author
-Created by **[Abdullah Bin Shahid](https://pplx.ai/abdullahbinshahid)**  
+Created by **[Abdullah Bin Shahid](https://abdullah.nyc.mn)**  
 Free Perplexity Pro referral guide for educational purposes.
